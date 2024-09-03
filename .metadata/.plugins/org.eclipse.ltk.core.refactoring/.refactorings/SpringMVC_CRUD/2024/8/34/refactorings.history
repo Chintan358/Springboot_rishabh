@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;jsps&apos;&#x0D;&#x0A;- Original project: &apos;SpringMVC_CRUD&apos;&#x0D;&#x0A;- Destination element: &apos;jsps&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     index.jsp&#x0D;&#x0A;     UserReg.jsp" description="Copy files" element1="src/main/webapp/WEB-INF/jsps/index.jsp" element2="src/main/webapp/WEB-INF/jsps/UserReg.jsp" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1724148342275" target="/Springboot-crud/src/main/webapp/WEB-INF/jsps" units="0" version="1.0"/>
+</session>

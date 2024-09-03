@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Springcore_annotation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com{Account.java[Account" modifiers="513" timestamp="1722664107476"/>
+    <typeInfo handle="=Springcore_annotation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com{User.java[User" modifiers="513" timestamp="1722664893313"/>
+    <typeInfo handle="=SpringMVC_CRUD/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.service{UserService.java[UserService" modifiers="513" timestamp="1723118641923"/>
+    <typeInfo handle="=SpringMVC_CRUD/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dao{UserDao.java[UserDao" modifiers="513" timestamp="1723118680063"/>
+    <typeInfo handle="=Springboot-crud/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{UserService.java[UserService" modifiers="513" timestamp="1724147952414"/>
+</typeInfoHistroy>
